@@ -1,4 +1,4 @@
-<img src="![png-transparent-apple-logo-company-apple-logo-company-service-computer](https://github.com/vishnu55510/TweetSent-Analyzing-Sentiment-in-Apple-Related-Tweets-for-Public-Perception-Insights-/assets/162179720/0a22dade-c2dd-493d-8a66-9a49e37055cd)" alt="logo" style="width: 50%;">
+<img src="![airtag-og-202104](https://github.com/vishnu55510/TweetSent-Analyzing-Sentiment-in-Apple-Related-Tweets-for-Public-Perception-Insights-/assets/162179720/d8f0808a-73aa-434b-92f8-ee7a231a8526)" alt="logo" style="width: 50%;">
 
 
 # TweetSent: Analyzing Sentiment in Apple-Related Tweets for Public Perception Insights
