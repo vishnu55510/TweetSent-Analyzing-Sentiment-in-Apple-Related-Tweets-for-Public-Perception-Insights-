@@ -1,5 +1,5 @@
+<img src="![png-transparent-apple-logo-company-apple-logo-company-service-computer](https://github.com/vishnu55510/TweetSent-Analyzing-Sentiment-in-Apple-Related-Tweets-for-Public-Perception-Insights-/assets/162179720/0a22dade-c2dd-493d-8a66-9a49e37055cd)" alt="Apple" style="width: 50%;">
 
-![png-transparent-apple-logo-company-apple-logo-company-service-computer](https://github.com/vishnu55510/TweetSent-Analyzing-Sentiment-in-Apple-Related-Tweets-for-Public-Perception-Insights-/assets/162179720/0a22dade-c2dd-493d-8a66-9a49e37055cd)
 
 # TweetSent: Analyzing Sentiment in Apple-Related Tweets for Public Perception Insights
 
